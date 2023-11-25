@@ -1,0 +1,44 @@
+h1{
+    background-color: rgb(121, 145, 151);
+    padding: 30px;
+    border: 03px solid black;
+    margin: 50px;
+    
+    
+}
+
+h2{
+    background-color: rgb(121, 145, 151);
+    
+}
+
+img{
+    margin: 50px;
+    
+
+
+}
+
+body{
+    background-color:#ccdbdb ;
+    
+}
+
+caption{color: rgb(235, 66, 15); font-size: larger;}
+p{
+    color: rgb(0, 0, 0); font-size: x-large; font-style: normal;
+}
+
+a{
+    font-size: xx-large;
+}
+
+h3{
+    background-color: rgb(121, 144, 151);
+    padding: 30px;
+    border: 03px solid rgb(238, 227, 227);
+    margin: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+}
+
